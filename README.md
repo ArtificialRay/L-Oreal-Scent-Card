@@ -6,7 +6,7 @@ please find **scentCard.pdf** to view our project intro, if you merely want to k
 # Scent card app prototype
 Since this prototype is supported by axure rp10, you can click the link to view the prototype:\
 https://scn8io.axshare.com/?g=14 \
-this link is also added in directory
+this link is also added in repository
 
 # Simulation code
 Core function of app: Scent Card generation is implemented by Python, you can find the source code: **ScentCardChain.py** and **technical document: ScentCardChain.ipynb** to see how it works. \
