@@ -11,10 +11,10 @@ this link is also added in repository
 # Simulation code
 Core function of app: Scent Card generation is implemented by Python, you can find the source code: **ScentCardChain.py** and **technical document: ScentCardChain.ipynb** to see how it works. \
 Funtions of source code include:
-*Scent card generation through blockchain(Hash-chain: a linked-list like data structure)
-*input and output the Scent card your create
-*add Scent card information to your MySQL database(which is a distributed ledger for every miners)
-*find your Scent card through NFT Code(Hash code in program)
+* Scent card generation through blockchain(Hash-chain: a linked-list like data structure)
+* input and output the Scent card your create
+* add Scent card information to your MySQL database(which is a distributed ledger for every miners)
+* find your Scent card through NFT Code(Hash code in program)
 
 please enjoy the project !! Feel free to give me feedback(good or bad are both okay) if the Scent Card can really catch your eyes~
 
